@@ -2,6 +2,10 @@ from textsummarizer.config.configuration import ConfigurationManager
 from textsummarizer.components.data_ingestion import DataIngestion
 from textsummarizer.logging import logger
 
+
+
+
+
 class DataIngestionTrainingPipeline:
     def __init__(self):
         pass
